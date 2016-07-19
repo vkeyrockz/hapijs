@@ -1,0 +1,17 @@
+{
+  "name": "chapter4",
+  "version": "1.0.0",
+  "description": "This chapter containes lessions of how to attach console plugins i.e. 'good' library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^12.1.0"
+  }
+}
