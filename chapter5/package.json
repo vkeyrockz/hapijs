@@ -1,0 +1,15 @@
+{
+  "name": "chapter5",
+  "version": "1.0.0",
+  "description": "This chapter describes working with hapijs and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^12.1.0",
+    "socketio": "^1.0.0"
+  }
+}
