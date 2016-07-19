@@ -1,0 +1,15 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "description": "This Chapter contains info of how to server static file like html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^12.1.0",
+    "inert": "^4.0.1"
+  }
+}
